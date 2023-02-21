@@ -1,0 +1,2 @@
+# patikadotnetdegiskenler
+.Net Değişkenler
